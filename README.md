@@ -28,7 +28,7 @@ Features:
 
 (6) Once you login, logout button will show up. if you logout, you can't access the client service
 
-The (2)(4)(5)(6) need to access database on Azure, the response time is a bit long
+The (2)(4)(5)(6) need to access database on Azure, sometime the response is a bit slow
 
 
 
